@@ -154,5 +154,6 @@
 ---
 
 <div align="center">
-  <img alt="YagizCK's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YagizCK?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />
+  <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YagizCK?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />
+  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/YagizCK?theme=dark&font=Roboto%20Slab" />
 </div>
