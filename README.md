@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yagizcemkocabiyik20@gmail.com">
+  <a href="mailto:yagizcemkocabiyik20@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yagiz-cem-kocabiyik">
+  <a href="https://linkedin.com/in/yagiz-cem-kocabiyik" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.fiverr.com/yagizck">
+  <a href="https://www.fiverr.com/yagizck" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
 </p>
@@ -155,5 +155,7 @@
 
 <div align="center">
   <img alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YagizCK?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />
-  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/YagizCK?theme=dark&font=Roboto%20Slab" />
+  <a href="https://leetcode.com/u/YagizCK" target="_blank">
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/YagizCK?theme=dark&font=Roboto%20Slab" />
+  </a>
 </div>
